@@ -1,0 +1,150 @@
+body {
+    padding: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.maindiv {
+    padding: 50px;
+   /* background-color: rgb(205, 240, 212);*/
+   background-image: url(img/efg.jpg);
+}
+.secdiv {
+    display: grid;
+    grid-template-columns: 215px auto;
+    
+
+}
+.left-panel {
+    margin-left: 1cm;
+}
+.right-panel {
+    margin-left: 2cm;
+}
+.deyn {
+    width: 210px;
+    height: 210px;
+}
+.motto {
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    border-style: double;
+    border-radius: .5cm;
+    border-color: rgb(61, 150, 98);
+    border-width: 2px;
+    padding: 20px;
+    
+}
+.others {
+    display: grid;
+    grid-template-columns: 500px auto; 
+}
+.first-panel {
+    margin-left: 5cm;
+}
+.second-panel {
+    margin-left: 5cm;
+}
+.interest {
+    font-size: 25px;
+}
+.musics {
+    font-size: 25px;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+button {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+
+/*Button designs*/
+.video {
+    width: 200px;
+    height: 32px;
+    border: none;
+    color: white;
+    background-color: rgb(41, 97, 64);
+    border-radius: 4px;
+    box-shadow: inset 0 0 0 0 #1b4227;
+    transition: ease-out 0.3s;
+}
+.video:hover {
+    box-shadow: inset 200px 0 0 0 #1b4227;
+}
+.games {
+    width: 200px;
+    height: 32px;
+    border: none;
+    color: white;
+    background-color: rgb(41, 97, 64);
+    border-radius: 4px;
+    box-shadow: inset 0 0 0 0 #1b4227;
+    transition: ease-out 0.3s;
+}
+.games:hover {
+    box-shadow: inset 200px 0 0 0 #1b4227;
+}
+.hobbies {
+    width: 200px;
+    height: 32px;
+    border: none;
+    color: white;
+    background-color: rgb(41, 97, 64);
+    border-radius: 4px;
+    box-shadow: inset 0 0 0 0 #1b4227;
+    transition: ease-out 0.3s;
+}
+.hobbies:hover {
+    box-shadow: inset 200px 0 0 0 #1b4227;
+}
+.m1 {
+    width: 200px;
+    height: 32px;
+    border: none;
+    color: white;
+    background-color: rgb(41, 97, 64);
+    border-radius: 4px;
+    box-shadow: inset 0 0 0 0 #1b4227;
+    transition: ease-out 0.3s;
+}
+.m1:hover {
+    box-shadow: inset 200px 0 0 0 #1b4227;
+}
+.m2 {
+    width: 200px;
+    height: 32px;
+    border: none;
+    color: white;
+    background-color: rgb(41, 97, 64);
+    border-radius: 4px;
+    box-shadow: inset 0 0 0 0 #1b4227;
+    transition: ease-out 0.3s;
+}
+.m2:hover {
+    box-shadow: inset 200px 0 0 0 #1b4227;
+}
+.m3 {
+    width: 200px;
+    height: 32px;
+    border: none;
+    color: white;
+    background-color: rgb(41, 97, 64);
+    border-radius: 4px;
+    box-shadow: inset 0 0 0 0 #1b4227;
+    transition: ease-out 0.3s;
+    outline: none;
+}
+.m3:hover {
+    box-shadow: inset 200px 0 0 0 #1b4227;
+}
+.balik {
+    background-color: rgb(41, 97, 64);
+    width: 100;
+    height: .8cm;
+    margin-right: 1cm;
+    margin-top: .7cm;
+    color: white;
+}

@@ -1,0 +1,99 @@
+body{
+background-image: url("KazuhaBackground.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+/*------------------------------*/
+img {
+float: left;
+padding: 10px 90px;
+border-radius: 50%;
+}
+/*------------------------------*/
+.nameStyle{
+font-family: cursive;
+font-size: 45px;
+color: #FFEBCD;
+padding: 8px 0px;
+}
+/*------------------------------*/
+a.aphsLink{
+font-family: cursive;
+font-size: 35px;
+color: #FFEBCD;
+padding: 8px 0px;
+}
+/*------------------------------*/
+.section{
+font-family: cursive;
+font-size: 40px;
+color: #FFEBCD;
+padding: 8px 0px;
+}
+/*------------------------------*/
+.BA{
+font-family: cursive;
+font-size: 30px;
+color: #FFEBCD;
+padding: 8px 0px;
+}
+/*------------------------------*/
+div.motto{
+border: 3px outset #808080;
+border-radius: 10px;
+padding: 10px 20px;
+align-self: center;
+margin-left: 85px;
+margin-right: 35%;
+}
+/*------------------------------*/
+.mottoTXT{
+font-family: cursive;
+font-size: 18px;
+color: #FFEBCD;
+padding: 8px 0px;
+}
+/*------------------------------*/
+.panel{
+float: left;
+padding: 10px 40px;
+width: 20%;
+height: 150px;
+text-align: left;
+box-sizing: border-box;
+margin-left: 155px;
+font-family: cursive;
+font-size: 20px;
+color: #FFEBCD;
+}
+
+div.ex{
+font-family: cursive;
+font-size: 30px;
+color: #F08080;
+padding: 8px 0px;
+}
+
+li {
+display: block;
+
+}
+a:link.ref, a:visited.ref{
+background-color: #FFEBCD;
+color: black;
+padding: 6px 2px;
+width: 250px;
+height: 40px;
+margin: 5px;
+border-radius: 20px;
+font-family: cursive;
+font-size: 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+border: 3px solid;
+}
+a:hover.ref, a:active.ref {
+background-color: #FFE4C4;
+}

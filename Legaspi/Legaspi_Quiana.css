@@ -1,0 +1,126 @@
+/*css code !*/
+
+body {
+
+    background-image: url(BG.gif);
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-color: lightblue;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+
+img {
+    margin: 50px;
+    margin-right: 5px;
+    border: 5px solid;
+    border-color: black;
+   
+}
+
+h3{
+    font-family: Cambria;
+    font-size: 20pt;
+    font-style: oblique;
+}
+
+h4{
+    font-family: impact;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+p{
+    font-family: Georgia;
+    font-size: 25px;
+    font-style: normal;
+}
+
+a {
+
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    font-size: 20pt;
+}
+
+h2 {
+
+    font-family: 'Impact';
+    color: rgb(224, 75, 75);
+    font-size: 50pt;
+    font-weight: 100;
+    margin-left: 20px;
+
+}
+
+h3{
+    margin-left: 20px;
+}
+
+.motto {
+    width: auto;
+    height: auto;
+    padding: 10pt;
+    border: 2pt;
+    border-style:solid;
+    border-radius: 12pt;
+    margin: 20pt;
+    font-family: Georgia;
+    font-size: 20pt;
+    font-style: oblique; 
+    font-weight: bold;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+div{
+    align-items: center;
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: whitesmoke;
+    border: 5px grey;
+    border-style: solid;
+    padding: 5pt;
+    line-height: 20pt;
+    padding-inline-start: 20pt;
+    padding-inline-end: 20pt;
+    border-radius: 15pt;
+    font-family: Roboto;
+    font-size: 20pt;
+    
+}
+.interest {
+    line-height: auto;
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    display:inline-block;
+    vertical-align:top;
+    }
+
+.music {
+    line-height: auto;
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    display:inline-block;
+    vertical-align: top;
+    }
+    
+    .balik {
+        background-color: whitesmoke;
+        width: 100;
+        height: .8cm;
+        margin-right: 1cm;
+    }

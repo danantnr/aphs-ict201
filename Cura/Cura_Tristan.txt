@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>INFO | Tristan Cura</title>
+	<link rel="stylesheet" href="Cura_TristanCSS.css">
+</head>
+<body>
+	<img src="Mcdonalds.jpg" style="width:17%; height: 350;">
+	<img src="Kazuha_Char.png" style="width:29.8%; float:right;">
+	<p class="nameStyle"><b>Tristan Kelly P. Cura</b></a>
+	<p class="BA"><b>August 24, 2004<br>Pag-Asa Sison Compound</b><br><br>
+
+	<div class="motto">
+		<p class="mottoTXT">
+		"I don't understand why people insist on going all out to try and prove how their existence is more valuable than everyone else's. To exist in the first place is a beautiful thing, and that's enough... isn't it?" - Ganyu</p>
+	</div>
+	<br>
+	
+	<div class="panel">
+		<div class="ex">
+		<b>My Interests: </b>
+		<ul>
+		<li><a class="ref" href="https://www.youtube.com/watch?v=GrG2-oX5z24" target=><b>Sleeping.mp4</b></a></li>
+		<li><a class="ref" href="https://genshin.hoyoverse.com/pc-launcher/?utm_source=SEA_google_SEA_performancemax_20220104&mhy_trace_channel=ga_channel&new=1&gclid=CjwKCAjwve2TBhByEiwAaktM1LAuCuFb47lyl2Bw7xRrT5t5OQquGfbFTzqX6sEO83Q1XxOn3zOeuhoC6wMQAvD_BwE#/GI008" target=><b>Genshin Impact</b></a></li>
+		<li><a class="ref" href="https://ko-fi.com/mantouku/" target=><b>Mantouku | Art</b></a></li>
+		</ul>
+		</div>
+	</div>
+	<div class="panel">
+		<div class="ex">
+		<b>Favorite Songs: </b>
+		<ul>
+		<li><a class="ref" href="https://www.youtube.com/watch?v=LBpHoOTlQdM" target=><b>DUET</b></a></li>
+		<li><a class="ref" href="https://www.youtube.com/watch?v=YEbz2Qt3vec" target=><b>Happier Than Ever</b></a></li>
+		<li><a class="ref" href="https://www.youtube.com/watch?v=O1bhZgkC4Gw" target=><b>Cry Baby</b></a></li>
+		</ul>
+		</div>
+	</div>
+</body>
+</html>
