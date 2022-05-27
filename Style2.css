@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(lgnbg.jpg);
+    background-size: cover;
+}
+.container {
+    width: 300px;
+    padding: 30px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.4);
+    text-align: center;
+    border-radius: .3cm;
+}
+.container h1 {
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.container input[type="text"], .container input[type="password"]
+{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 3px solid #dcd9d8;
+    padding: 14px 10px;
+    width: 220px;
+    outline: none;
+    color: white;
+    transition: 0.25px;
+}
+.container input[type="text"]:focus,.container input[type="password"]:focus {
+    width: 270px;
+    border-color: #8897aa;
+}
+.container input[type="submit"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 3px solid #8897aa;
+    padding: 10px 10px;
+    width: 100px;
+    outline: none;
+    color: white;
+    transition: 0.25px;
+    border-radius: 1cm;
+    cursor: pointer;
+}
+.container input[type="submit"]:hover {
+    background-color: #8897aa;
+}
+p {
+    color: rgb(86, 125, 156);
+}

@@ -1,0 +1,133 @@
+body {
+    /*background-color: rgba(169, 200, 241, 0.993);*/
+    padding: 0%;
+    margin: 0%;
+    background-image: linear-gradient(#8D9AAA, #B3BDCA);
+}
+.logo {
+    display: grid;
+    grid-template-columns: 200px 950px 200px;
+    background-color: #DCD9D8;
+}
+.headers {
+    text-align: center;
+}
+.leftaphs {
+    width: 120px;
+    height: 120px;
+    margin-left: 1.5cm;
+    margin-top: .5cm;
+}
+.rightaphs {
+    width: 130px;
+    height: 125px;
+    margin-right: 1.5cm;
+    margin-top: .5cm;
+}
+/*Text styling*/
+.APHS {
+    font-size: 25px;
+    color: black;
+    font-family: 'IM Fell DW Pica', serif;
+}
+h1 {
+    margin-left: .5cm;
+    font-size: 50px;
+    line-height: .5cm;
+    font-family: 'IM Fell DW Pica', serif;
+}
+h2 {
+    margin-left: .5cm;
+    font-size: 40px;
+    line-height: .5cm;
+    font-family: 'Montserrat', sans-serif;
+}
+.visit {
+    margin-left: 1cm;
+}
+.them {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+/* second division */
+.ICT {
+    display: grid;
+    grid-template-columns: 1000px auto;
+}
+.adviser {
+    margin-left: .5cm;
+}
+/*motto*/
+.classmotto {
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    border-style: double;
+    border-radius: .5cm;
+    border-color: rgb(61, 56, 131);
+    border-width: 2px;
+    padding: 20px;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+/* Display Photos */
+.adviser{
+    text-align: left;
+    margin-top: .5cm;
+    font-family: 'Raleway', sans-serif;
+}
+.adviserdp {
+    width: 120px;
+    height: 120px;
+
+}
+/* Class Photos */
+.grid-container {
+    display: grid;
+    grid-template-columns: 4.5cm 4.5cm 4.5cm 4.5cm 4.5cm;
+    grid-template-rows: 5cm 5cm;
+    margin-left: 1.5cm;
+    
+  }
+  .item {
+      width: 120px;
+      height: 120px;
+      background-color: lightgray;
+      margin: 1cm;
+      font-family: 'Raleway', sans-serif;
+  }
+.stuimg {
+    width: 120px;
+    height: 120px;
+}
+.name {
+    line-height: 0cm;
+    color: black;
+    text-align: center;
+}
+.footer {
+    background-color: #DCD9D8;
+    display: grid;
+    grid-template-columns: 1000px 200px;
+    margin-top: .5cm;
+}
+.lgt {
+    width: 100px;
+    height: 32px;
+    border: none;
+    background-color: #8D9AAA;
+    border-radius: 4px;
+    box-shadow: inset 0 0 0 0 #6D829B;
+    transition: ease-out 0.3s;
+    margin-left: 4cm;
+    margin-top: .5cm;
+    margin-bottom: .5cm;
+}
+.lgt:hover {
+    box-shadow: inset 200px 0 0 0 #6D829B;
+}
+.foot {
+    margin-top: .5cm;
+    margin-left: 1cm;
+    font-family: 'Montserrat', sans-serif;
+}
